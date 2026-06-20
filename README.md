@@ -1,3 +1,4 @@
+<p align="center">   　　
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cherubism&label=　CHERUBS𓏵　&color=FFD4DD&style=flat" alt="cherubism" /> </p>
 <p align="center">⠀<img width="31" height="45" alt="IMG_2595" src="https://github.com/user-attachments/assets/7d8076de-af99-41e6-81ab-6577d32e137e" />
 <img width="98" height="18" alt="IMG_2596" src="https://github.com/user-attachments/assets/31a26392-7702-4699-9877-4036c5816b94" />
